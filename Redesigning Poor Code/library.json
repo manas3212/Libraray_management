@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "_title": "Dg",
+            "_available": true,
+            "_author": "J.R.R. Tolkien",
+            "_isbn": "1234567852"
+        }
+    ],
+    "users": [
+        {
+            "name": "Tula",
+            "user_id": "023e5626-0e05-4e29-ae70-d179bce87e05"
+        },
+        {
+            "name": "Tua",
+            "user_id": "94602f50-b642-4f75-9019-73804d0918bc"
+        }
+    ]
+}
