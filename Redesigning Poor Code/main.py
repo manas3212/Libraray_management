@@ -292,32 +292,3 @@ if __name__ == "__main__":
 
 
 
-# # Add a book
-# python main.py book add "The Lord of the Rings" "J.R.R. Tolkien" "9780618640157"
-
-# # List all books
-# python main.py book list
-
-# # Update a book's title
-# python main.py book update 9780618640157 --title "The Fellowship of the Ring"
-
-# # Delete a book
-# python main.py book delete 9780618640157
-
-# # Add a user
-# python main.py user add "Alice"
-
-# # List all users
-# python main.py user list
-
-# # Update a user's name
-# python main.py user update <user_id> "New Name"  
-
-# # Delete a user
-# python main.py user delete <user_id>
-
-# # Check out a book
-# python main.py check out <user_id> <book_isbn>
-
-# # Check in a book
-# python main.py check in <book_isbn>
